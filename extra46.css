@@ -1,6 +1,6 @@
 body {
   font-family: 'Poppins', sans-serif;
-  background-color: #f0f2f5;
+  background-color: #fbf2f5;
   margin: 0;
   padding: 0;
   display: flex;
@@ -103,4 +103,5 @@ button {
   font-size: 24px;
   padding: 20px;
 }
+
 }
