@@ -33,5 +33,6 @@ function kelly()
 
 function kellyall()
 {
-    alert("¡Felices 17, Kellyyy 🎂! Dios contigooo 🤍, te quiero muchooo 💕... Atte: Un enano ⭐");
+    alert("¡Felices 17, Kellyyy 🎂! Dios contigooo 🤍, te quiero muchooo 💕... Atte: Un enano ⭐.");
 }
+
