@@ -6,6 +6,7 @@ function kelly()
     if ((email==="hernandezkelly@gmail.com" && password=="1702") || (email==="duilioponce2@gmail.com" && password=="1702"))
     {
         window.location.href="extra46(2).html";
+        finish();
     }
     else
     {
