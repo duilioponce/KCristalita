@@ -64,12 +64,12 @@ button:hover {
     }
 
     h1 {
-        font-size: 32px;
+        font-size: 34px;
         margin-bottom: 22px;
     }
 
     label {
-        font-size: 20px;
+        font-size: 22px;
         margin-bottom: 20px;
     }
 
@@ -80,3 +80,4 @@ button:hover {
     }
 
 }
+
