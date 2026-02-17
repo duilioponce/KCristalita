@@ -60,7 +60,7 @@ input {
   border-radius: 10px;
   font-size: 16px;
   box-sizing: border-box;
-  background-color: rgba(0, 0, 0, 0.3);
+  background-color: #ededed;
 }
 
 button {
@@ -126,6 +126,7 @@ button:hover {
   }
 }
 }
+
 
 
 
