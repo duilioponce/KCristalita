@@ -108,11 +108,11 @@ button:hover {
   }
 
   label, input {
-    font-size: 24px;
+    font-size: 18px;
   }
 
   button {
-    font-size: 18px;
+    font-size: 24px;
     padding: 20px;
   }
 
@@ -122,6 +122,7 @@ button:hover {
   }
 }
 }
+
 
 
 
