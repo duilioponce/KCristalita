@@ -107,7 +107,11 @@ button:hover {
     font-size: 28px;
   }
 
-  label, input {
+  label {
+    font-size: 22px;
+  }
+  
+  input {
     font-size: 18px;
   }
 
@@ -122,6 +126,7 @@ button:hover {
   }
 }
 }
+
 
 
 
